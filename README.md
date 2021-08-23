@@ -2,7 +2,7 @@
 
 Simple Github workflow example for testing Vue applications created with Vue CLI.
 
-Includes:
+Included commands:
 * npm install
 * npm run build
 * npm run test
