@@ -1,6 +1,6 @@
 # vue-cli-test-workflow
 
-Simple Github workflow example for testing Vue applications created with Vue CLI.
+Simple Github workflow example for testing Vue applications created with Vue CLI and Vue Test Utils.
 
 * Installs NPM dependencies
 * Builds the bundle
